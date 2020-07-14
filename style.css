@@ -1,0 +1,32 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-color: white;
+}
+
+body {
+    display: flex;
+    background-color: rgb(0, 65, 77);
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.X {
+    outline: solid;
+    outline-color: white;
+    outline-width: 2.5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: rgb(0, 65, 77);
+    margin:10px;
+    padding:5px;  
+}
